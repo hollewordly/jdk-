@@ -2,7 +2,6 @@ package com.ly.maven.test;
 
 import java.lang.reflect.Proxy;
 
-import org.apache.catalina.User;
 import org.junit.Test;
 
 import com.ly.maven.pojo.po.UserService;
